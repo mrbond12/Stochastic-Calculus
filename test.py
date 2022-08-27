@@ -8,4 +8,4 @@ def fib(n):
 
   return ans[n]
 
-print(fib(8))
+print(fib(10))
